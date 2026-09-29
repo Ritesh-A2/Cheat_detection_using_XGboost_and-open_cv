@@ -1,0 +1,10 @@
+2026-08-27 22:11:22 | INFO | app | Initializing AI engine on device=cpu, half=False
+2026-08-27 22:13:44 | INFO | app | Initializing AI engine on device=cpu, half=False
+2026-08-27 22:13:45 | INFO | app | AI engine ready.
+2026-08-27 22:15:09 | INFO | gui | Exam processing stopped by user.
+2026-08-27 22:16:30 | INFO | app | Initializing AI engine on device=cpu, half=False
+2026-08-27 22:16:32 | INFO | app | AI engine ready.
+2026-08-27 22:16:59 | INFO | gui | Exam processing stopped by user.
+2026-08-27 22:20:05 | INFO | app | Initializing AI engine on device=cpu, half=False
+2026-08-27 22:20:06 | INFO | app | AI engine ready.
+2026-08-27 22:21:12 | INFO | gui | Exam processing stopped by user.

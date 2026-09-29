@@ -1,0 +1,18 @@
+# Core ML
+ultralytics>=8.3.0
+xgboost>=2.0.0
+numpy>=1.26.0
+scipy>=1.11.0
+
+# PyTorch - install the CUDA build matching your GPU driver from
+# https://pytorch.org/get-started/locally/  (example for CUDA 12.1):
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+torch>=2.1.0
+torchvision>=0.16.0
+
+# Video / imaging
+opencv-python>=4.9.0
+Pillow>=10.2.0
+
+# GUI (tkinter ships with standard CPython on Windows/most Linux distros;
+# on some minimal Linux installs you may need: sudo apt install python3-tk)
